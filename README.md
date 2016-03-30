@@ -11,7 +11,7 @@ This repository contains the documentation for [Sketchpacks](http://www.sketchpa
 ## 1. Overview
 
 Sketchpacks' API is a JSON-based API. All requests are made to endpoints beginning:
-`http://www.medium.com/api/v1`
+`http://www.sketchpacks.com/api/v1`
 
 
 ## 2. Resources
